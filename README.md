@@ -1,4 +1,4 @@
-This is a task given by "Unbundl"
+
 Tasks are given below:-
 
 Task 1: Create a Product Carousel for Featured Products
